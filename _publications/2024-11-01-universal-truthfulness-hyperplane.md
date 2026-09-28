@@ -11,4 +11,4 @@ Junteng Liu is the first author of this publication at EMNLP 2024.
 
 **Authors:** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.
 
-Code is available in the <a href="https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane">Universal_Truthfulness_Hyperplane</a> GitHub repository.
+Code is available in the Universal_Truthfulness_Hyperplane GitHub repository.
