@@ -11,4 +11,4 @@ Junteng Liu is the first author of this 2025 publication on arXiv.
 
 **Authors:** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
 
-Code is available in the <a href="https://github.com/Vicent0205/Vision4Chart">Vision4Chart</a> GitHub repository.
+Code is available in the Vision4Chart GitHub repository.
